@@ -1,0 +1,260 @@
+{
+  "@context": ["https://w3id.org/demeter/agri-context.jsonld"],
+  "@graph": [
+    {
+      "@type": "CropType",
+      "@id": "urn:ngsi-ld:CropType:d4770989-6e39-4001-95d9-61e2938dc789",
+      "code": "BI",
+      "name": "Potato",
+      "family": "Solanaceae",
+      "description": "Bintje",
+      "species": "Solanum tuberosum L. cv. Bintje"
+    },
+    {
+      "@id": "urn:ngsi-ld:Site:61c55178-8eaf-45bb-a640-a067de2279e4",
+      "@type": "Site",
+      "containsPlot": [
+        {
+          "@id": "urn:ngsi-ld:Plot:ccc67112-471c-4c50-8407-8e8f83d04661",
+          "@type": "Plot",
+          "code": "a6ceb225-5f1b-48ae-b3b6-71710722dada",
+          "validFrom": 1583060400000,
+          "hasGeometry": {
+            "@type": "Polygon",
+            "@asWKT": "POLYGON ((5.069913750505427 51.1207333396481, 5.069334786178061 51.12062432853051, 5.069966893713124 51.1192315693128, 5.070027116349451 51.11924721164695, 5.070912226821192 51.11939008266668, 5.0709239350726465 51.11952278238539, 5.070951226226229 51.11967543501768, 5.07097356129965 51.11973597857727, 5.070985286581993 51.119803327195456, 5.071081497743252 51.11992302847412, 5.07113813035588 51.11997527739746, 5.071342970394381 51.120147546687576, 5.071360070452659 51.120163894856915, 5.071366349605079 51.120173026336886, 5.071371460513384 51.12018045684624, 5.07137886579034 51.12020746998019, 5.071384310272665 51.12022757317308, 5.07138295959922 51.12026120056959, 5.071377721135086 51.12028325516573, 5.0713610624200065 51.12032470446999, 5.071266478616981 51.120503073245885, 5.071242314443296 51.12055832063146, 5.071236789688507 51.120570848448864, 5.071232320119283 51.12058705551934, 5.071226231395062 51.120609564629746, 5.0711891590324365 51.12077518553309, 5.071120859583473 51.120982342490095, 5.071097319757237 51.12107911587785, 5.071070779460933 51.12108089207135, 5.070809123473446 51.12107238310921, 5.070758963701333 51.12107070427044, 5.070386201135099 51.12105386695873, 5.069897666464553 51.121031874305686, 5.069913750505427 51.1207333396481))"
+          },
+          "area": 1.98,
+          "description": "Genebroek001",
+          "category": "arable",
+          "cropStatus": "undefined",
+          "crop": {
+            "@type": "Crop",
+            "validFrom": 1583060400000,
+            "validTo": 1606734000000,
+            "cropArea": 1.98,
+            "cropSpecies": {
+              "@type": "CropType",
+              "@id": "urn:ngsi-ld:CropType:d4770989-6e39-4001-95d9-61e2938dc789",
+              "code": "BI",
+              "name": "Potato",
+              "family": "Solanaceae",
+              "description": "Bintje",
+              "species": "Solanum tuberosum L. cv. Bintje"
+            },
+            "production": {
+              "@productionAmount": {
+                "@propertyHasValue": 56.5
+              }
+            }
+          }
+        },
+        {
+          "@id": "urn:ngsi-ld:Plot:9e899d08-e9c2-4302-a8ad-b4cde0054a7d",
+          "@type": "Plot",
+          "code": "23e2a498-9f12-4a14-ae89-9e045521e876",
+          "validFrom": 1583060400000,
+          "hasGeometry": {
+            "@type": "Polygon",
+            "@asWKT": "POLYGON ((5.081255447369071 51.12511403232702, 5.082246244995983 51.125501675125435, 5.084703937810791 51.122780030885394, 5.083764610190472 51.12261850393119, 5.081255447369071 51.12511403232702))"
+          },
+          "area": 2.49,
+          "description": "Kapellestraat011",
+          "category": "arable",
+          "cropStatus": "undefined",
+          "crop": {
+            "@type": "Crop",
+            "validFrom": 1583060400000,
+            "validTo": 1606734000000,
+            "cropArea": 2.49,
+            "cropSpecies": {
+              "@type": "CropType",
+              "@id": "urn:ngsi-ld:CropType:d4770989-6e39-4001-95d9-61e2938dc789",
+              "code": "BI",
+              "name": "Potato",
+              "family": "Solanaceae",
+              "description": "Bintje",
+              "species": "Solanum tuberosum L. cv. Bintje"
+            },
+            "production": {
+              "@productionAmount": {
+                "@propertyHasValue": 54.85
+              }
+            }
+          }
+        },
+        {
+          "@id": "urn:ngsi-ld:Plot:75a5e1b4-ab1a-4757-bd02-3503730da881",
+          "@type": "Plot",
+          "code": "ebb73966-89ff-4ad7-9057-0a7c66f6d6dc",
+          "validFrom": 1583060400000,
+          "hasGeometry": {
+            "@type": "Polygon",
+            "@asWKT": "POLYGON ((5.083088701510969 51.124890855962065, 5.084170974279776 51.1252671358952, 5.08487172643224 51.12452434658684, 5.0837738813933795 51.124060097203454, 5.083088701510969 51.124890855962065))"
+          },
+          "area": 0.89,
+          "description": "Kapellestraat008",
+          "category": "arable",
+          "cropStatus": "undefined",
+          "crop": {
+            "@type": "Crop",
+            "validFrom": 1583060400000,
+            "validTo": 1606734000000,
+            "cropArea": 0.89,
+            "cropSpecies": {
+              "@type": "CropType",
+              "@id": "urn:ngsi-ld:CropType:d4770989-6e39-4001-95d9-61e2938dc789",
+              "code": "BI",
+              "name": "Potato",
+              "family": "Solanaceae",
+              "description": "Bintje",
+              "species": "Solanum tuberosum L. cv. Bintje"
+            },
+            "production": {
+              "@productionAmount": {
+                "@propertyHasValue": 64.2
+              }
+            }
+          }
+        },
+        {
+          "@id": "urn:ngsi-ld:Plot:14930e2f-f7fa-43ae-9ff8-0d91eaa69911",
+          "@type": "Plot",
+          "code": "e9185114-236b-4187-b69a-fe70d3ece9a1",
+          "validFrom": 1583060400000,
+          "hasGeometry": {
+            "@type": "Polygon",
+            "@asWKT": "POLYGON ((5.080652775257765 51.12678388004457, 5.081050810457612 51.12692102854467, 5.08155030561036 51.126338144606734, 5.081058615069373 51.126161808520806, 5.080652775257765 51.12678388004457))"
+          },
+          "area": 0.26,
+          "description": "Kapellestraat003",
+          "category": "arable",
+          "cropStatus": "undefined",
+          "crop": {
+            "@type": "Crop",
+            "validFrom": 1583060400000,
+            "validTo": 1606734000000,
+            "cropArea": 0.26,
+            "cropSpecies": {
+              "@type": "CropType",
+              "@id": "urn:ngsi-ld:CropType:d4770989-6e39-4001-95d9-61e2938dc789",
+              "code": "BI",
+              "name": "Potato",
+              "family": "Solanaceae",
+              "description": "Bintje",
+              "species": "Solanum tuberosum L. cv. Bintje"
+            },
+            "production": {
+              "@productionAmount": {
+                "@propertyHasValue": 42.12
+              }
+            }
+          }
+        },
+        {
+          "@id": "urn:ngsi-ld:Plot:84750994-58e2-49b4-9231-0768a63faf17",
+          "@type": "Plot",
+          "code": "abe51b21-ec6f-4f10-83a1-d3aed323d3ea",
+          "validFrom": 1583060400000,
+          "hasGeometry": {
+            "@type": "Polygon",
+            "@asWKT": "POLYGON ((5.08488396573763 51.12717605157104, 5.085786369070785 51.12657256760778, 5.085978684535229 51.12465065075375, 5.085031900710278 51.12545842265192, 5.08488396573763 51.12717605157104))"
+          },
+          "area": 1.22,
+          "description": "Kapellestraat019",
+          "category": "arable",
+          "cropStatus": "undefined",
+          "crop": {
+            "@type": "Crop",
+            "validFrom": 1583060400000,
+            "validTo": 1606734000000,
+            "cropArea": 1.22,
+            "cropSpecies": {
+              "@type": "CropType",
+              "@id": "urn:ngsi-ld:CropType:d4770989-6e39-4001-95d9-61e2938dc789",
+              "code": "BI",
+              "name": "Potato",
+              "family": "Solanaceae",
+              "description": "Bintje",
+              "species": "Solanum tuberosum L. cv. Bintje"
+            },
+            "production": {
+              "@productionAmount": {
+                "@propertyHasValue": 46.55
+              }
+            }
+          }
+        },
+        {
+          "@id": "urn:ngsi-ld:Plot:093cac3e-44e4-4743-84f3-4bfc26522d64",
+          "@type": "Plot",
+          "code": "b8092358-d5e2-4e0b-9c3c-43fda1af953a",
+          "validFrom": 1583060400000,
+          "hasGeometry": {
+            "@type": "Polygon",
+            "@asWKT": "POLYGON ((5.075298339622556 51.124837782390046, 5.07584602926764 51.12499123930397, 5.077303274930454 51.123272492746764, 5.076745805113136 51.123063783453375, 5.075298339622556 51.124837782390046))"
+          },
+          "area": 0.96,
+          "description": "Kapellestraat012",
+          "category": "arable",
+          "cropStatus": "undefined",
+          "crop": {
+            "@type": "Crop",
+            "validFrom": 1583060400000,
+            "validTo": 1606734000000,
+            "cropArea": 0.96,
+            "cropSpecies": {
+              "@type": "CropType",
+              "@id": "urn:ngsi-ld:CropType:d4770989-6e39-4001-95d9-61e2938dc789",
+              "code": "BI",
+              "name": "Potato",
+              "family": "Solanaceae",
+              "description": "Bintje",
+              "species": "Solanum tuberosum L. cv. Bintje"
+            },
+            "production": {
+              "@productionAmount": {
+                "@propertyHasValue": 58.5
+              }
+            }
+          }
+        },
+        {
+          "@id": "urn:ngsi-ld:Plot:741a0327-7314-4666-9e3b-528f255710a7",
+          "@type": "Plot",
+          "code": "2134f80b-e174-473f-afb2-470dbf93a104",
+          "validFrom": 1583060400000,
+          "hasGeometry": {
+            "@type": "Polygon",
+            "@asWKT": "POLYGON ((5.081189144210814 51.1269449906973, 5.081639755325315 51.12711332502283, 5.08250879104614 51.12605617528686, 5.082101095275877 51.12590803772221, 5.081189144210814 51.1269449906973))"
+          },
+          "area": 0.46,
+          "description": "Kapellestraat001",
+          "category": "arable",
+          "cropStatus": "undefined",
+          "crop": {
+            "@type": "Crop",
+            "validFrom": 1583060400000,
+            "validTo": 1606734000000,
+            "cropArea": 0.46,
+            "cropSpecies": {
+              "@type": "CropType",
+              "@id": "urn:ngsi-ld:CropType:d4770989-6e39-4001-95d9-61e2938dc789",
+              "code": "BI",
+              "name": "Potato",
+              "family": "Solanaceae",
+              "description": "Bintje",
+              "species": "Solanum tuberosum L. cv. Bintje"
+            },
+            "production": {
+              "@productionAmount": {
+                "@propertyHasValue": 38.2
+              }
+            }
+          }
+        }
+      ],
+      "description": "Arable Land in the Farm",
+      "category": "arable"
+    }
+  ]
+}
