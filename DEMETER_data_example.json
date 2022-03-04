@@ -1,0 +1,210 @@
+{
+  "query": "/getSensorTelemetry/latest/?limit=1&providers=RISE",
+  "params": {
+    "limit": "1",
+    "providers": "RISE"
+  },
+  "numResults": 10,
+  "results": [
+    {
+      "measurement": "volumetric_water_content_mineral_soil",
+      "observations": [
+        {
+          "time": "2021-12-01T07:47:17Z",
+          "altitude": 0,
+          "@asWKT": "POINT(24.717313 64.031415)",
+          "geohash": "ue3s62wd50uk",
+          "latitude": 64.031415,
+          "longitude": 24.717313,
+          "sequenceNumber": 9979,
+          "value": 37.44,
+          "entityName": "afc_node_0205_25",
+          "service": "cropsManagement",
+          "provider": "RISE",
+          "type": "soil",
+          "uom": "http://qudt.org/vocab/unit/PERCENT"
+        }
+      ]
+    },
+    {
+      "measurement": "temperature_teros21",
+      "observations": [
+        {
+          "time": "2021-12-01T07:47:17Z",
+          "altitude": 0,
+          "@asWKT": "POINT(24.717413 64.031515)",
+          "geohash": "ue3s62wd50uk",
+          "latitude": 64.031415,
+          "longitude": 24.717313,
+          "sequenceNumber": 9979,
+          "value": 1.4,
+          "entityName": "afc_node_0205_25",
+          "service": "cropsManagement",
+          "provider": "RISE",
+          "type": "soil",
+          "uom": "http://qudt.org/vocab/unit/DEG_C"
+        }
+      ]
+    },
+    {
+      "measurement": "temperature_teros12",
+      "observations": [
+        {
+          "time": "2021-12-01T07:47:17Z",
+          "altitude": 0,
+          "@asWKT": "POINT(24.717213 64.031515)",
+          "geohash": "ue3s62wd50uk",
+          "latitude": 64.031415,
+          "longitude": 24.717313,
+          "sequenceNumber": 9979,
+          "value": 1.2,
+          "entityName": "afc_node_0205_25",
+          "service": "cropsManagement",
+          "provider": "RISE",
+          "type": "soil",
+          "uom": "http://qudt.org/vocab/unit/DEG_C"
+        }
+      ]
+    },
+    {
+      "measurement": "soil_matrix_potential",
+      "observations": [
+        {
+          "time": "2021-12-01T07:47:17Z",
+          "altitude": 0,
+          "@asWKT": "POINT(24.717413 64.031315)",
+          "geohash": "ue3s62wd50uk",
+          "latitude": 64.031415,
+          "longitude": 24.717313,
+          "sequenceNumber": 9979,
+          "value": -9.6,
+          "entityName": "afc_node_0205_25",
+          "service": "cropsManagement",
+          "provider": "RISE",
+          "type": "soil",
+          "uom": "http://qudt.org/vocab/unit/KiloPA"
+        }
+      ]
+    },
+    {
+      "measurement": "relative_dielectric_constant",
+      "observations": [
+        {
+          "time": "2021-12-01T07:47:17Z",
+          "altitude": 0,
+          "@asWKT": "POINT(24.717413 64.031415)",
+          "geohash": "ue3s62wd50uk",
+          "latitude": 64.031415,
+          "longitude": 24.717313,
+          "sequenceNumber": 9979,
+          "value": 20.01,
+          "entityName": "afc_node_0205_25",
+          "service": "cropsManagement",
+          "provider": "RISE",
+          "type": "soil",
+          "uom": "http://qudt.org/vocab/unit/UNITLESS"
+        }
+      ]
+    },
+    {
+      "measurement": "electrical_conductivity_pores",
+      "observations": [
+        {
+          "time": "2021-12-01T07:47:17Z",
+          "altitude": 0,
+          "@asWKT": "POINT(24.717213 64.031515)",
+          "geohash": "ue3s62wd50uk",
+          "latitude": 64.031415,
+          "longitude": 24.717313,
+          "sequenceNumber": 9979,
+          "value": 0.028000000000000004,
+          "entityName": "afc_node_0205_25",
+          "service": "cropsManagement",
+          "provider": "RISE",
+          "type": "soil",
+          "uom": "http://qudt.org/vocab/unit/S-PER-M"
+        }
+      ]
+    },
+    {
+      "measurement": "electrical_conductivity_bulk",
+      "observations": [
+        {
+          "time": "2021-12-01T07:47:17Z",
+          "altitude": 0,
+          "@asWKT": "POINT(24.717313 64.031315)",
+          "geohash": "ue3s62wd50uk",
+          "latitude": 64.031415,
+          "longitude": 24.717313,
+          "sequenceNumber": 9979,
+          "value": 0.0051,
+          "entityName": "afc_node_0205_25",
+          "service": "cropsManagement",
+          "provider": "RISE",
+          "type": "soil",
+          "uom": "http://qudt.org/vocab/unit/S-PER-M"
+        }
+      ]
+    },
+    {
+      "measurement": "battery",
+      "observations": [
+        {
+          "time": "2021-12-01T07:47:17Z",
+          "altitude": 0,
+          "@asWKT": "POINT(24.717223 64.031515)",
+          "geohash": "ue3s62wd50uk",
+          "latitude": 64.031415,
+          "longitude": 24.717313,
+          "sequenceNumber": 9979,
+          "value": 3.27,
+          "entityName": "afc_node_0205_25",
+          "service": "cropsManagement",
+          "provider": "RISE",
+          "type": "soil",
+          "uom": "http://qudt.org/vocab/unit/V"
+        }
+      ]
+    },
+    {
+      "measurement": "air_temperature",
+      "observations": [
+        {
+          "time": "2021-12-01T07:47:17Z",
+          "altitude": 0,
+          "@asWKT": "POINT(24.717313 64.031535)",
+          "geohash": "ue3s62wd50uk",
+          "latitude": 64.031415,
+          "longitude": 24.717313,
+          "sequenceNumber": 9979,
+          "value": -15.87,
+          "entityName": "afc_node_0205_25",
+          "service": "cropsManagement",
+          "provider": "RISE",
+          "type": "soil",
+          "uom": "http://qudt.org/vocab/unit/DEG_C"
+        }
+      ]
+    },
+    {
+      "measurement": "air_humidity",
+      "observations": [
+        {
+          "time": "2021-12-01T07:47:17Z",
+          "altitude": 0,
+          "@asWKT": "POINT(24.717413 64.031535)",
+          "geohash": "ue3s62wd50uk",
+          "latitude": 64.031415,
+          "longitude": 24.717313,
+          "sequenceNumber": 9979,
+          "value": 86.1,
+          "entityName": "afc_node_0205_25",
+          "service": "cropsManagement",
+          "provider": "RISE",
+          "type": "soil",
+          "uom": "http://qudt.org/vocab/unit/PERCENT"
+        }
+      ]
+    }
+  ]
+}
