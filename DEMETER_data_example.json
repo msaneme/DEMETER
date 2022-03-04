@@ -13,6 +13,10 @@
           "time": "2021-12-01T07:47:17Z",
           "altitude": 0,
           "@asWKT": "POINT(24.717313 64.031415)",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [24.717313, 64.031415]
+          },
           "geohash": "ue3s62wd50uk",
           "latitude": 64.031415,
           "longitude": 24.717313,
@@ -33,6 +37,10 @@
           "time": "2021-12-01T07:47:17Z",
           "altitude": 0,
           "@asWKT": "POINT(24.717413 64.031515)",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [24.717413, 64.031515]
+          },
           "geohash": "ue3s62wd50uk",
           "latitude": 64.031415,
           "longitude": 24.717313,
@@ -53,6 +61,10 @@
           "time": "2021-12-01T07:47:17Z",
           "altitude": 0,
           "@asWKT": "POINT(24.717213 64.031515)",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [24.717213, 64.031515]
+          },
           "geohash": "ue3s62wd50uk",
           "latitude": 64.031415,
           "longitude": 24.717313,
@@ -73,6 +85,10 @@
           "time": "2021-12-01T07:47:17Z",
           "altitude": 0,
           "@asWKT": "POINT(24.717413 64.031315)",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [24.717413, 64.031315]
+          },
           "geohash": "ue3s62wd50uk",
           "latitude": 64.031415,
           "longitude": 24.717313,
@@ -93,6 +109,10 @@
           "time": "2021-12-01T07:47:17Z",
           "altitude": 0,
           "@asWKT": "POINT(24.717413 64.031415)",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [24.717413, 64.031415]
+          },
           "geohash": "ue3s62wd50uk",
           "latitude": 64.031415,
           "longitude": 24.717313,
@@ -113,6 +133,10 @@
           "time": "2021-12-01T07:47:17Z",
           "altitude": 0,
           "@asWKT": "POINT(24.717213 64.031515)",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [24.717213, 64.031515]
+          },
           "geohash": "ue3s62wd50uk",
           "latitude": 64.031415,
           "longitude": 24.717313,
@@ -133,6 +157,10 @@
           "time": "2021-12-01T07:47:17Z",
           "altitude": 0,
           "@asWKT": "POINT(24.717313 64.031315)",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [24.717313, 64.031315]
+          },
           "geohash": "ue3s62wd50uk",
           "latitude": 64.031415,
           "longitude": 24.717313,
@@ -153,6 +181,10 @@
           "time": "2021-12-01T07:47:17Z",
           "altitude": 0,
           "@asWKT": "POINT(24.717223 64.031515)",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [24.717223, 64.031515]
+          },
           "geohash": "ue3s62wd50uk",
           "latitude": 64.031415,
           "longitude": 24.717313,
@@ -173,6 +205,10 @@
           "time": "2021-12-01T07:47:17Z",
           "altitude": 0,
           "@asWKT": "POINT(24.717313 64.031535)",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [24.717313, 64.031535]
+          },
           "geohash": "ue3s62wd50uk",
           "latitude": 64.031415,
           "longitude": 24.717313,
@@ -193,6 +229,10 @@
           "time": "2021-12-01T07:47:17Z",
           "altitude": 0,
           "@asWKT": "POINT(24.717413 64.031535)",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [24.717413, 64.031535]
+          },
           "geohash": "ue3s62wd50uk",
           "latitude": 64.031415,
           "longitude": 24.717313,
