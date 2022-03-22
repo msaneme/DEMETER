@@ -1,0 +1,963 @@
+{
+  "@graph": [
+    {
+      "@id": "afc node 0205 25",
+      "measurements": [
+        {
+          "@type": "Observation",
+          "observedProperty": "volumetric water content mineral soil",
+          "containsPlot": [
+            {
+              "Measurement": "volumetric water content mineral soil",
+              "Date": "2021-12-01T07:47:17Z",
+              "asWKT": "POINT(24.717313 64.031415)",
+              "Value": "37.44",
+              "Unity of measure": "%",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "temperature teros21",
+          "containsPlot": [
+            {
+              "Measurement": "temperature teros21",
+              "Date": "2021-12-01T07:47:17Z",
+              "asWKT": "POINT(24.717313 64.031415)",
+              "Value": "1.4",
+              "Unity of measure": "°C",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "temperature teros12",
+          "containsPlot": [
+            {
+              "Measurement": "temperature teros12",
+              "Date": "2021-12-01T07:47:17Z",
+              "asWKT": "POINT(24.717313 64.031415)",
+              "Value": "1.2",
+              "Unity of measure": "°C",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "soil matrix potential",
+          "containsPlot": [
+            {
+              "Measurement": "soil matrix potential",
+              "Date": "2021-12-01T07:47:17Z",
+              "asWKT": "POINT(24.717313 64.031415)",
+              "Value": "-9.6",
+              "Unity of measure": "kPa",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "relative dielectric constant",
+          "containsPlot": [
+            {
+              "Measurement": "relative dielectric constant",
+              "Date": "2021-12-01T07:47:17Z",
+              "asWKT": "POINT(24.717313 64.031415)",
+              "Value": "20.01",
+              "Unity of measure": " ",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "electrical conductivity pores",
+          "containsPlot": [
+            {
+              "Measurement": "electrical conductivity pores",
+              "Date": "2021-12-01T07:47:17Z",
+              "asWKT": "POINT(24.717313 64.031415)",
+              "Value": "0.028000000000000004",
+              "Unity of measure": "S/m",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "electrical conductivity bulk",
+          "containsPlot": [
+            {
+              "Measurement": "electrical conductivity bulk",
+              "Date": "2021-12-01T07:47:17Z",
+              "asWKT": "POINT(24.717313 64.031415)",
+              "Value": "0.0051",
+              "Unity of measure": "S/m",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "battery",
+          "containsPlot": [
+            {
+              "Measurement": "battery",
+              "Date": "2021-12-01T07:47:17Z",
+              "asWKT": "POINT(24.717313 64.031415)",
+              "Value": "3.27",
+              "Unity of measure": "V",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "air temperature",
+          "containsPlot": [
+            {
+              "Measurement": "air temperature",
+              "Date": "2021-12-01T07:47:17Z",
+              "asWKT": "POINT(24.717313 64.031415)",
+              "Value": "-15.87",
+              "Unity of measure": "°C",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "air humidity",
+          "containsPlot": [
+            {
+              "Measurement": "air humidity",
+              "Date": "2021-12-01T07:47:17Z",
+              "asWKT": "POINT(24.717313 64.031415)",
+              "Value": "86.1",
+              "Unity of measure": "%",
+              "Provider": "RISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "UPM weatherD101690",
+      "measurements": [
+        {
+          "@type": "Observation",
+          "observedProperty": "wind speed",
+          "containsPlot": [
+            {
+              "Measurement": "wind speed",
+              "Date": "2022-03-21T13:50:00Z",
+              "asWKT": "POINT(24.72468 64.05029)",
+              "Value": "5.8",
+              "Unity of measure": "",
+              "Provider": "UPM"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "wind direction",
+          "containsPlot": [
+            {
+              "Measurement": "wind direction",
+              "Date": "2022-03-21T13:50:00Z",
+              "asWKT": "POINT(24.72468 64.05029)",
+              "Value": "242.0",
+              "Unity of measure": "°",
+              "Provider": "UPM"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "rainfall",
+          "containsPlot": [
+            {
+              "Measurement": "rainfall",
+              "Date": "2022-03-21T13:50:00Z",
+              "asWKT": "POINT(24.72468 64.05029)",
+              "Value": "0.0",
+              "Unity of measure": "",
+              "Provider": "UPM"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "air temperature",
+          "containsPlot": [
+            {
+              "Measurement": "air temperature",
+              "Date": "2022-03-21T13:50:00Z",
+              "asWKT": "POINT(24.72468 64.05029)",
+              "Value": "9.9",
+              "Unity of measure": "°C",
+              "Provider": "UPM"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "air preassure",
+          "containsPlot": [
+            {
+              "Measurement": "air preassure",
+              "Date": "2022-03-21T13:50:00Z",
+              "asWKT": "POINT(24.72468 64.05029)",
+              "Value": "1031.3",
+              "Unity of measure": "",
+              "Provider": "UPM"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "air humidity",
+          "containsPlot": [
+            {
+              "Measurement": "air humidity",
+              "Date": "2022-03-21T13:50:00Z",
+              "asWKT": "POINT(24.72468 64.05029)",
+              "Value": "43.0",
+              "Unity of measure": "%",
+              "Provider": "UPM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "afc node 0205 24",
+      "measurements": [
+        {
+          "@type": "Observation",
+          "observedProperty": "volumetric water content mineral soil",
+          "containsPlot": [
+            {
+              "Measurement": "volumetric water content mineral soil",
+              "Date": "2021-12-01T07:24:06Z",
+              "asWKT": "POINT(24.717094 64.035531)",
+              "Value": "38.0",
+              "Unity of measure": "%",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "temperature teros21",
+          "containsPlot": [
+            {
+              "Measurement": "temperature teros21",
+              "Date": "2021-12-01T07:24:06Z",
+              "asWKT": "POINT(24.717094 64.035531)",
+              "Value": "1.1",
+              "Unity of measure": "°C",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "temperature teros12",
+          "containsPlot": [
+            {
+              "Measurement": "temperature teros12",
+              "Date": "2021-12-01T07:24:06Z",
+              "asWKT": "POINT(24.717094 64.035531)",
+              "Value": "1.3",
+              "Unity of measure": "°C",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "soil matrix potential",
+          "containsPlot": [
+            {
+              "Measurement": "soil matrix potential",
+              "Date": "2021-12-01T07:24:06Z",
+              "asWKT": "POINT(24.717094 64.035531)",
+              "Value": "-8.0",
+              "Unity of measure": "kPa",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "relative dielectric constant",
+          "containsPlot": [
+            {
+              "Measurement": "relative dielectric constant",
+              "Date": "2021-12-01T07:24:06Z",
+              "asWKT": "POINT(24.717094 64.035531)",
+              "Value": "20.52",
+              "Unity of measure": " ",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "electrical conductivity pores",
+          "containsPlot": [
+            {
+              "Measurement": "electrical conductivity pores",
+              "Date": "2021-12-01T07:24:06Z",
+              "asWKT": "POINT(24.717094 64.035531)",
+              "Value": "0.038200000000000005",
+              "Unity of measure": "S/m",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "electrical conductivity bulk",
+          "containsPlot": [
+            {
+              "Measurement": "electrical conductivity bulk",
+              "Date": "2021-12-01T07:24:06Z",
+              "asWKT": "POINT(24.717094 64.035531)",
+              "Value": "0.0072",
+              "Unity of measure": "S/m",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "battery",
+          "containsPlot": [
+            {
+              "Measurement": "battery",
+              "Date": "2021-12-01T07:24:06Z",
+              "asWKT": "POINT(24.717094 64.035531)",
+              "Value": "3.23",
+              "Unity of measure": "V",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "air temperature",
+          "containsPlot": [
+            {
+              "Measurement": "air temperature",
+              "Date": "2021-12-01T07:24:06Z",
+              "asWKT": "POINT(24.717094 64.035531)",
+              "Value": "-18.26",
+              "Unity of measure": "°C",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "air humidity",
+          "containsPlot": [
+            {
+              "Measurement": "air humidity",
+              "Date": "2021-12-01T07:24:06Z",
+              "asWKT": "POINT(24.717094 64.035531)",
+              "Value": "86.81",
+              "Unity of measure": "%",
+              "Provider": "RISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "afc node 0205 23",
+      "measurements": [
+        {
+          "@type": "Observation",
+          "observedProperty": "volumetric water content mineral soil",
+          "containsPlot": [
+            {
+              "Measurement": "volumetric water content mineral soil",
+              "Date": "2021-01-27T06:34:49Z",
+              "asWKT": "POINT(24.719272 64.034451)",
+              "Value": "36.4",
+              "Unity of measure": "%",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "temperature teros21",
+          "containsPlot": [
+            {
+              "Measurement": "temperature teros21",
+              "Date": "2021-01-27T06:34:49Z",
+              "asWKT": "POINT(24.719272 64.034451)",
+              "Value": "0.8",
+              "Unity of measure": "°C",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "temperature teros12",
+          "containsPlot": [
+            {
+              "Measurement": "temperature teros12",
+              "Date": "2021-01-27T06:34:49Z",
+              "asWKT": "POINT(24.719272 64.034451)",
+              "Value": "0.8",
+              "Unity of measure": "°C",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "soil matrix potential",
+          "containsPlot": [
+            {
+              "Measurement": "soil matrix potential",
+              "Date": "2021-01-27T06:34:49Z",
+              "asWKT": "POINT(24.719272 64.034451)",
+              "Value": "-9.9",
+              "Unity of measure": "kPa",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "relative dielectric constant",
+          "containsPlot": [
+            {
+              "Measurement": "relative dielectric constant",
+              "Date": "2021-01-27T06:34:49Z",
+              "asWKT": "POINT(24.719272 64.034451)",
+              "Value": "19.11",
+              "Unity of measure": " ",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "electrical conductivity pores",
+          "containsPlot": [
+            {
+              "Measurement": "electrical conductivity pores",
+              "Date": "2021-01-27T06:34:49Z",
+              "asWKT": "POINT(24.719272 64.034451)",
+              "Value": "0.053000000000000005",
+              "Unity of measure": "S/m",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "electrical conductivity bulk",
+          "containsPlot": [
+            {
+              "Measurement": "electrical conductivity bulk",
+              "Date": "2021-01-27T06:34:49Z",
+              "asWKT": "POINT(24.719272 64.034451)",
+              "Value": "0.0091",
+              "Unity of measure": "S/m",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "battery",
+          "containsPlot": [
+            {
+              "Measurement": "battery",
+              "Date": "2021-01-27T06:34:49Z",
+              "asWKT": "POINT(24.719272 64.034451)",
+              "Value": "3.38",
+              "Unity of measure": "V",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "air temperature",
+          "containsPlot": [
+            {
+              "Measurement": "air temperature",
+              "Date": "2021-01-27T06:34:49Z",
+              "asWKT": "POINT(24.719272 64.034451)",
+              "Value": "-3.74",
+              "Unity of measure": "°C",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "air humidity",
+          "containsPlot": [
+            {
+              "Measurement": "air humidity",
+              "Date": "2021-01-27T06:34:49Z",
+              "asWKT": "POINT(24.719272 64.034451)",
+              "Value": "94.38",
+              "Unity of measure": "%",
+              "Provider": "RISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "afc node 0205 22",
+      "measurements": [
+        {
+          "@type": "Observation",
+          "observedProperty": "volumetric water content mineral soil",
+          "containsPlot": [
+            {
+              "Measurement": "volumetric water content mineral soil",
+              "Date": "2021-12-01T07:34:54Z",
+              "asWKT": "POINT(24.716343 64.036396)",
+              "Value": "36.28",
+              "Unity of measure": "%",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "temperature teros21",
+          "containsPlot": [
+            {
+              "Measurement": "temperature teros21",
+              "Date": "2021-12-01T07:34:54Z",
+              "asWKT": "POINT(24.716343 64.036396)",
+              "Value": "1.9",
+              "Unity of measure": "°C",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "temperature teros12",
+          "containsPlot": [
+            {
+              "Measurement": "temperature teros12",
+              "Date": "2021-12-01T07:34:54Z",
+              "asWKT": "POINT(24.716343 64.036396)",
+              "Value": "1.5",
+              "Unity of measure": "°C",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "soil matrix potential",
+          "containsPlot": [
+            {
+              "Measurement": "soil matrix potential",
+              "Date": "2021-12-01T07:34:54Z",
+              "asWKT": "POINT(24.716343 64.036396)",
+              "Value": "-7.7",
+              "Unity of measure": "kPa",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "relative dielectric constant",
+          "containsPlot": [
+            {
+              "Measurement": "relative dielectric constant",
+              "Date": "2021-12-01T07:34:54Z",
+              "asWKT": "POINT(24.716343 64.036396)",
+              "Value": "19.0",
+              "Unity of measure": " ",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "electrical conductivity pores",
+          "containsPlot": [
+            {
+              "Measurement": "electrical conductivity pores",
+              "Date": "2021-12-01T07:34:54Z",
+              "asWKT": "POINT(24.716343 64.036396)",
+              "Value": "0.2029",
+              "Unity of measure": "S/m",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "electrical conductivity bulk",
+          "containsPlot": [
+            {
+              "Measurement": "electrical conductivity bulk",
+              "Date": "2021-12-01T07:34:54Z",
+              "asWKT": "POINT(24.716343 64.036396)",
+              "Value": "0.0347",
+              "Unity of measure": "S/m",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "battery",
+          "containsPlot": [
+            {
+              "Measurement": "battery",
+              "Date": "2021-12-01T07:34:54Z",
+              "asWKT": "POINT(24.716343 64.036396)",
+              "Value": "3.25",
+              "Unity of measure": "V",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "air temperature",
+          "containsPlot": [
+            {
+              "Measurement": "air temperature",
+              "Date": "2021-12-01T07:34:54Z",
+              "asWKT": "POINT(24.716343 64.036396)",
+              "Value": "-19.02",
+              "Unity of measure": "°C",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "air humidity",
+          "containsPlot": [
+            {
+              "Measurement": "air humidity",
+              "Date": "2021-12-01T07:34:54Z",
+              "asWKT": "POINT(24.716343 64.036396)",
+              "Value": "86.52",
+              "Unity of measure": "%",
+              "Provider": "RISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "afc node 0205 21",
+      "measurements": [
+        {
+          "@type": "Observation",
+          "observedProperty": "volumetric water content mineral soil",
+          "containsPlot": [
+            {
+              "Measurement": "volumetric water content mineral soil",
+              "Date": "2020-08-15T04:13:37Z",
+              "asWKT": "POINT(24.720735 64.031794)",
+              "Value": "34.89",
+              "Unity of measure": "%",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "temperature teros21",
+          "containsPlot": [
+            {
+              "Measurement": "temperature teros21",
+              "Date": "2020-08-15T04:13:37Z",
+              "asWKT": "POINT(24.720735 64.031794)",
+              "Value": "14.1",
+              "Unity of measure": "°C",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "temperature teros12",
+          "containsPlot": [
+            {
+              "Measurement": "temperature teros12",
+              "Date": "2020-08-15T04:13:37Z",
+              "asWKT": "POINT(24.720735 64.031794)",
+              "Value": "14.2",
+              "Unity of measure": "°C",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "soil matrix potential",
+          "containsPlot": [
+            {
+              "Measurement": "soil matrix potential",
+              "Date": "2020-08-15T04:13:37Z",
+              "asWKT": "POINT(24.720735 64.031794)",
+              "Value": "-67.2",
+              "Unity of measure": "kPa",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "relative dielectric constant",
+          "containsPlot": [
+            {
+              "Measurement": "relative dielectric constant",
+              "Date": "2020-08-15T04:13:37Z",
+              "asWKT": "POINT(24.720735 64.031794)",
+              "Value": "17.88",
+              "Unity of measure": " ",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "electrical conductivity pores",
+          "containsPlot": [
+            {
+              "Measurement": "electrical conductivity pores",
+              "Date": "2020-08-15T04:13:37Z",
+              "asWKT": "POINT(24.720735 64.031794)",
+              "Value": "0.128",
+              "Unity of measure": "S/m",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "electrical conductivity bulk",
+          "containsPlot": [
+            {
+              "Measurement": "electrical conductivity bulk",
+              "Date": "2020-08-15T04:13:37Z",
+              "asWKT": "POINT(24.720735 64.031794)",
+              "Value": "0.021400000000000002",
+              "Unity of measure": "S/m",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "battery",
+          "containsPlot": [
+            {
+              "Measurement": "battery",
+              "Date": "2020-08-15T04:13:37Z",
+              "asWKT": "POINT(24.720735 64.031794)",
+              "Value": "3.45",
+              "Unity of measure": "V",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "air temperature",
+          "containsPlot": [
+            {
+              "Measurement": "air temperature",
+              "Date": "2020-08-15T04:13:37Z",
+              "asWKT": "POINT(24.720735 64.031794)",
+              "Value": "16.67",
+              "Unity of measure": "°C",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "air humidity",
+          "containsPlot": [
+            {
+              "Measurement": "air humidity",
+              "Date": "2020-08-15T04:13:37Z",
+              "asWKT": "POINT(24.720735 64.031794)",
+              "Value": "70.09",
+              "Unity of measure": "%",
+              "Provider": "RISE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "afc node 0205 20",
+      "measurements": [
+        {
+          "@type": "Observation",
+          "observedProperty": "volumetric water content mineral soil",
+          "containsPlot": [
+            {
+              "Measurement": "volumetric water content mineral soil",
+              "Date": "2021-12-01T07:45:03Z",
+              "asWKT": "POINT(24.719959 64.034822)",
+              "Value": "35.75",
+              "Unity of measure": "%",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "temperature teros21",
+          "containsPlot": [
+            {
+              "Measurement": "temperature teros21",
+              "Date": "2021-12-01T07:45:03Z",
+              "asWKT": "POINT(24.719959 64.034822)",
+              "Value": "1.8",
+              "Unity of measure": "°C",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "temperature teros12",
+          "containsPlot": [
+            {
+              "Measurement": "temperature teros12",
+              "Date": "2021-12-01T07:45:03Z",
+              "asWKT": "POINT(24.719959 64.034822)",
+              "Value": "1.6",
+              "Unity of measure": "°C",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "soil matrix potential",
+          "containsPlot": [
+            {
+              "Measurement": "soil matrix potential",
+              "Date": "2021-12-01T07:45:03Z",
+              "asWKT": "POINT(24.719959 64.034822)",
+              "Value": "-8.4",
+              "Unity of measure": "kPa",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "relative dielectric constant",
+          "containsPlot": [
+            {
+              "Measurement": "relative dielectric constant",
+              "Date": "2021-12-01T07:45:03Z",
+              "asWKT": "POINT(24.719959 64.034822)",
+              "Value": "18.57",
+              "Unity of measure": " ",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "electrical conductivity pores",
+          "containsPlot": [
+            {
+              "Measurement": "electrical conductivity pores",
+              "Date": "2021-12-01T07:45:03Z",
+              "asWKT": "POINT(24.719959 64.034822)",
+              "Value": "0.05480000000000001",
+              "Unity of measure": "S/m",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "electrical conductivity bulk",
+          "containsPlot": [
+            {
+              "Measurement": "electrical conductivity bulk",
+              "Date": "2021-12-01T07:45:03Z",
+              "asWKT": "POINT(24.719959 64.034822)",
+              "Value": "0.0091",
+              "Unity of measure": "S/m",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "battery",
+          "containsPlot": [
+            {
+              "Measurement": "battery",
+              "Date": "2021-12-01T07:45:03Z",
+              "asWKT": "POINT(24.719959 64.034822)",
+              "Value": "3.32",
+              "Unity of measure": "V",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "air temperature",
+          "containsPlot": [
+            {
+              "Measurement": "air temperature",
+              "Date": "2021-12-01T07:45:03Z",
+              "asWKT": "POINT(24.719959 64.034822)",
+              "Value": "-15.76",
+              "Unity of measure": "°C",
+              "Provider": "RISE"
+            }
+          ]
+        },
+        {
+          "@type": "Observation",
+          "observedProperty": "air humidity",
+          "containsPlot": [
+            {
+              "Measurement": "air humidity",
+              "Date": "2021-12-01T07:45:03Z",
+              "asWKT": "POINT(24.719959 64.034822)",
+              "Value": "87.91",
+              "Unity of measure": "%",
+              "Provider": "RISE"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
